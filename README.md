@@ -27,8 +27,9 @@ Testy rozwiązania przeprowadzone w ramach pracy inżynierskiej wykazały:
 
 ## 📂 Struktura repozytorium
 * `SZABLON.xlsm` – Główny plik aplikacji (wymaga włączonej obsługi makr).
-* `src/` – Wyeksportowane moduły kodu VBA (`*.bas`) do łatwego przeglądu w przeglądarce.
-* `data_sample/` – Zanonimizowany, testowy zestaw danych wejściowych.
+* Wyeksportowane moduły kodu VBA (`*.bas`) do łatwego przeglądu.
+* `Źródła/` – testowy zestaw danych wejściowych.
+* `Raporty/` - folder w który trafiają wyexportowane raporty z szablonu.
 
 ## 💻 Instrukcja uruchomienia
 1. Pobierz repozytorium na dysk lokalny.
